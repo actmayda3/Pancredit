@@ -57,5 +57,5 @@ Las claves API están protegidas mediante Streamlit Secrets y no se almacenan en
 
 ## 📌 Autor
 
-**Mayra López**  
+**Mayra López Mejía**  
 Proyecto Final – Diplomado en Ciencia de Datos
